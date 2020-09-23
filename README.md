@@ -8,9 +8,9 @@ Asako Shiohara dan Mohd Izzuddin Fitri. Akan datang. Two pieces of Brunei Malay 
 ## Isi Kandungan
 |Fail         |Topik                    |Jenis  |Durasi|Jumlah token|ID penutur|
 |:------------|:------------------------|:-----:|-----:|-----------:|:--------:|
-|Brunei201701 |Batang Dayang            |Monolog|  :   |  424       | 1        |
-|Brunei201702 |Sejarah Weston dan Bukau |Monolog|  :   |  454       | 1        |
-|Jumlah       |                         |       |  :   |  878       |          |
+|Brunei201701 |Batang Dayang            |Monolog|04:01 |  424       | 1        |
+|Brunei201702 |Sejarah Weston dan Bukau |Monolog|04:32 |  454       | 1        |
+|Jumlah       |                         |       |08:33 |  878       |          |
 
 ## Maklumat penutur
 |ID|Tempat asal   | Tahun lahir | Jantina |
