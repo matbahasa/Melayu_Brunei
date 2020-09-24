@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<docs>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000001" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="barita" p1="di-" s1="-kan" s2="-lah" stem="baritakan+lah" lemma="membaritakan+lah">Dibaritakanlah</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="satu" stem="satu" lemma="satu">satu</w>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="mistik" stem="mistik" lemma="mistik">mistik</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="Wistin" stem="Wistin" lemma="Wistin">Wistin</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>...</pu>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000002" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="daulu" s1="-nya" r1="R-penuh" stem="daulu-daulunya" lemma="daulu-daulunya">Daulu-daulunya</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="batang" p1="se-" stem="satu+batang" lemma="satu+batang">sabatang</w>
+<w rt="kayu" stem="kayu" lemma="kayu">kayu</w>
+<w rt="ingga" p1="se-" stem="saingga" lemma="saingga">saingga</w>
+<w rt="ari" stem="ari" lemma="ari">ari</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>,</pu>
+<w rt="masi" stem="masi" lemma="masi">masi</w>
+<w rt="lagi" stem="lagi" lemma="lagi">lagi</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000003" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="carita" stem="carita" lemma="carita">Carita</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="nama" p1="di-" s1="-kan" stem="namakan" lemma="menamakan">dinamakan</w>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000004" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="urang" stem="urang" lemma="urang">Urang</w>
+<w rt="tua" p1="ter-" stem="tua" lemma="tua">tatua</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="masih" stem="masih" lemma="masih">masih</w>
+<w rt="lagi" stem="lagi" lemma="lagi">lagi</w>
+<w rt="idup" stem="idup" lemma="idup">idup</w>
+<w rt="sini" stem="sini" lemma="sini">sini</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="mimang" stem="mimang" lemma="mimang">mimang</w>
+<w rt="tawu" stem="tawu" lemma="tawu">tawu</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000005" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="dan" stem="dan" lemma="dan">Dan</w>
+<w rt="anak" r1="R-penuh" stem="anak-anak" lemma="anak-anak">anak-anak</w>
+<w rt="baru" stem="baru" lemma="baru">baru</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="laut" stem="laut" lemma="laut">laut</w>
+<w rt="mimang" stem="mimang" lemma="mimang">mimang</w>
+<w rt="tau" stem="tau" lemma="tau">tau</w>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000006" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>,</pu>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="bah" stem="bah" lemma="bah">bah</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="sungai" stem="sungai" lemma="sungai">sungai</w>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>,</pu>
+<w rt="sungai" stem="sungai" lemma="sungai">sungai</w>
+<w rt="kitani" stem="kitani" lemma="kitani">kitani</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000007" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="ani" stem="ani" lemma="ani@mengani">Ani</w>
+<w rt="mimang" stem="mimang" lemma="mimang">mimang</w>
+<w rt="ujud" stem="ujud" lemma="ujud">ujud</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000008" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="kisah" s1="-nya" stem="kisah+dia" lemma="kisah+dia">Kisahnya</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="tau" p1="di-" p2="ke-" s1="-i" stem="kataui" lemma="mangataui">dikataui</w>
+<g/>
+<pu>,</pu>
+<w rt="ia" stem="ia" lemma="ia">ia</w>
+<w rt="tumbuh" stem="tumbuh" lemma="tumbuh">tumbuh</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="siring" stem="siring" lemma="menyiring">siring</w>
+<w rt="sungai" stem="sungai" lemma="sungai">sungai</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000009" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="cuma" stem="cuma" lemma="cuma">Cuma</w>
+<w rt="tuhan" stem="tuhan" lemma="tuhan">tuhan</w>
+<w rt="punya" stem="punya" lemma="punya">punya</w>
+<w rt="kuasa" stem="kuasa" lemma="kuasa">kuasa</w>
+<g/>
+<pu>,</pu>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<w rt="lihat" p1="meN-" s1="-kan" stem="lihatkan" lemma="malihatkan">malihatkan</w>
+<w rt="basar" s1="-nya" c1="ke--an" stem="kabasaran+dia" lemma="kabasaran+dia">kabasarannya</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000010" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="di" stem="di" lemma="di">Di</w>
+<w rt="bawah" stem="bawah" lemma="bawah">bawah</w>
+<w rt="puhun-kayu" stem="puhun-kayu" lemma="puhun-kayu">puhun-kayu</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>,</pu>
+<w rt="jaranih" stem="jaranih" lemma="jaranih">jaranih</w>
+<w rt="aing" s1="-nya" stem="aing+dia" lemma="aing+dia">aingnya</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000011" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="kaliling" p1="se-" s1="-nya" stem="sakaliling+dia" lemma="sakaliling+dia">Sakalilingnya</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="kabut" stem="kabut" lemma="kabut">kabut</w>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000012" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="Jadi" stem="Jadi" lemma="Jadi">Jadi</w>
+<g/>
+<pu>,</pu>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="tangah" p1="se-" stem="stangah" lemma="stangah">stangah</w>
+<w rt="dapat" p1="peN-" stem="pandapat" lemma="pandapat">pandapat</w>
+<w rt="macam" stem="macam" lemma="macam">macam</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="lubang" stem="lubang" lemma="lubang">lubang</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="daripada" stem="daripada" lemma="daripada">daripada</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000013" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="dan" stem="dan" lemma="dan">Dan</w>
+<w rt="dalam" stem="dalam" lemma="dalam">dalam</w>
+<w rt="tanah" stem="tanah" lemma="tanah">tanah</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="kitani" stem="kitani" lemma="kitani">kitani</w>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="tau" stem="tau" lemma="tau">tau</w>
+<g/>
+<pu>,</pu>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="sungai" s1="-kah" stem="sungai+kah" lemma="sungai+kah">sungaikah</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="apa" s1="-kah" stem="apa+kah" lemma="apa+kah">apakah</w>
+<w rt="kitani" stem="kitani" lemma="kitani">kitani</w>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="tau" stem="tau" lemma="tau">tau</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000014" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="cuma" stem="cuma" lemma="cuma">Cuma</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="bari" p1="meN-" stem="bari" lemma="mambari">mambari</w>
+<w rt="hiran" s1="-nya" stem="hiran+dia" lemma="hiran+dia">hirannya</w>
+<g/>
+<pu>,</pu>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>,</pu>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="bawah" stem="bawah" lemma="bawah">bawah</w>
+<w rt="puhun-kayu" stem="puhun-kayu" lemma="puhun-kayu">puhun-kayu</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>,</pu>
+<w rt="jaranih" stem="jaranih" lemma="jaranih">jaranih</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000015" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="Ada" stem="Ada" lemma="Ada">Ada</w>
+<w rt="cuba" s1="-an" stem="cubaan" lemma="cubaan">cubaan</w>
+<w rt="dulu" stem="dulu" lemma="dulu">dulu</w>
+<g/>
+<pu>,</pu>
+<w rt="tarik" p1="meN-" stem="manarik" lemma="manarik">manarik</w>
+<w rt="dangan" stem="dangan" lemma="dangan">dangan</w>
+<w rt="kapal" stem="kapal" lemma="kapal">kapal</w>
+<w rt="kayu" stem="kayu" lemma="kayu">kayu</w>
+<w rt="balak" stem="balak" lemma="balak@membalak">balak</w>
+<g/>
+<pu>,</pu>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<w rt="dua" stem="dua" lemma="dua">dua</w>
+<w rt="buah" stem="buah" lemma="buah">buah</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000016" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="Masih" stem="Masih" lemma="Masih">Masih</w>
+<w rt="idup" stem="idup" lemma="idup">idup</w>
+<w rt="lagi" stem="lagi" lemma="lagi">lagi</w>
+<w rt="urang" stem="urang" lemma="urang">urang</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>,</pu>
+<w rt="carita" p1="ber-" stem="bacarita" lemma="bacarita">bacarita</w>
+<g/>
+<pu>,</pu>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<w rt="tarik" p1="di-" s1="-nya" stem="dia+tarik" lemma="dia+menarik">ditariknya</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>,</pu>
+<w rt="akar" s1="-nya" stem="akarnya@akar+dia" lemma="akarnya@akar+dia@mengakar+dia">akarnya</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000017" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="Jadi" stem="Jadi" lemma="Jadi">Jadi</w>
+<g/>
+<pu>,</pu>
+<w rt="kisah" p1="di-" s1="-kan" s2="-lah" stem="kisahkan+lah" lemma="mangisahkan+lah">dikisahkanlah</w>
+<w rt="urang" stem="urang" lemma="urang">urang</w>
+<w rt="lagi" stem="lagi" lemma="lagi">lagi</w>
+<w rt="daulu" stem="daulu" lemma="daulu">daulu</w>
+<g/>
+<pu>,</pu>
+<w rt="bila" s1="-nya" stem="bilanya@bila+dia" lemma="bilanya@bila+dia">bilanya</w>
+<w rt="tau" stem="tau" lemma="tau">tau</w>
+<w rt="kan" stem="kan" lemma="kan">kan</w>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000018" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="kalau" stem="kalau" lemma="kalau">Kalau</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="kaliling" p1="se-" s1="-nya" stem="sakaliling+dia" lemma="sakaliling+dia">skalilingnya</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="rumput" s1="-nya" r1="R-penuh" stem="rumput+dia" lemma="rumput+dia">rumput-rumputnya</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>,</pu>
+<w rt="hijau" stem="hijau" lemma="hijau">hijau</w>
+<g/>
+<pu>,</pu>
+<w rt="biru" stem="biru" lemma="biru">biru</w>
+<w rt="subur" stem="subur" lemma="subur@menyubur">subur</w>
+<w rt="samua" stem="samua" lemma="samua">samua</w>
+<g/>
+<pu>,</pu>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="darat" stem="darat" lemma="darat">darat</w>
+<w rt="padi" stem="padi" lemma="padi">padi</w>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<w rt="tumbuh" stem="tumbuh" lemma="tumbuh">tumbuh</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000019" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="padi" stem="padi" lemma="padi">Padi</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="lingkung" s1="-an" stem="lingkungan" lemma="lingkungan">lingkungan</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="balah" p1="se-" s1="-lah" r1="R-penuh" stem="subalah" lemma="subalah">subalah-subalah</w>
+<w rt="darat" stem="darat" lemma="darat">darat</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="kan" stem="kan" lemma="kan">kan</w>
+<w rt="tumbuh" stem="tumbuh" lemma="tumbuh">tumbuh</w>
+<g/>
+<pu>,</pu>
+<w rt="akan" stem="akan" lemma="akan">akan</w>
+<w rt="mati" s1="-lah" stem="mati+lah" lemma="mati+lah">matilah</w>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000020" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="tapi" stem="tapi" lemma="tapi">Tapi</w>
+<g/>
+<pu>,</pu>
+<w rt="balik" c1="se--nya" stem="sabaliknya" lemma="sabaliknya">sbaliknya</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="apa" stem="apa" lemma="apa">apa</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">dayang</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="kaliling" s1="-nya" r1="R-penuh" stem="kaliling+dia" lemma="kaliling+dia">kaliling-kalilingnya</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>,</pu>
+<w rt="rumput" r1="R-penuh" stem="rumput" lemma="rumput">rumput-rumput</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="mati" stem="mati" lemma="mati">mati</w>
+<g/>
+<pu>,</pu>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="darat" stem="darat" lemma="darat">darat</w>
+<w rt="padi" stem="padi" lemma="padi">padi</w>
+<w rt="akan" stem="akan" lemma="akan">akan</w>
+<w rt="tumbuh" stem="tumbuh" lemma="tumbuh">tumbuh</w>
+<w rt="padi" stem="padi" lemma="padi">padi</w>
+<w rt="huma" stem="huma" lemma="huma">huma</w>
+<g/>
+<pu>,</pu>
+<w rt="padi" stem="padi" lemma="padi">padi</w>
+<w rt="bukit" stem="bukit" lemma="bukit">bukit</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>,</pu>
+<w rt="tumbuh" stem="tumbuh" lemma="tumbuh">tumbuh</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000021" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="Ada" stem="Ada" lemma="Ada">Ada</w>
+<w rt="lagi" stem="lagi" lemma="lagi">lagi</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="bulih" stem="bulih" lemma="bulih">bulih</w>
+<w rt="carita" p1="ber-" stem="bacarita" lemma="bacarita">bacarita</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="masih" stem="masih" lemma="masih">masih</w>
+<w rt="idup" stem="idup" lemma="idup">idup</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="bulih" stem="bulih" lemma="bulih">bulih</w>
+<w rt="saksi" p1="meN-" s1="-kan" stem="saksikan" lemma="manyaksikan">manyaksikan</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000022" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="apa" stem="apa" lemma="apa">Apa</w>
+<w rt="tu" stem="tu" lemma="tu">tu</w>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="mimang" stem="mimang" lemma="mimang">mimang</w>
+<w rt="nalayan" r1="R-penuh" stem="nalayan" lemma="nalayan">nalayan-nalayan</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="sini" stem="sini" lemma="sini">sini</w>
+<w rt="tau" stem="tau" lemma="tau">tau</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="paling" stem="paling" lemma="paling">paling</w>
+<w rt="garun" p1="di-" s1="-i" stem="garuni" lemma="manggaruni">digaruni</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000023" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="tapi" stem="tapi" lemma="tapi">Tapi</w>
+<g/>
+<pu>,</pu>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="jua" stem="jua" lemma="jua">jua</w>
+<w rt="parnah" stem="parnah" lemma="parnah">parnah</w>
+<w rt="kacau" p1="meN-" stem="kacau" lemma="mangacau">mangacau</w>
+<w rt="urang" stem="urang" lemma="urang">urang</w>
+<g/>
+<pu>.</pu>
+<w rt="cuma" stem="cuma" lemma="cuma">Cuma</w>
+<g/>
+<pu>,</pu>
+<w rt="ia" stem="ia" lemma="ia">ia</w>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="mistik" stem="mistik" lemma="mistik">mistik</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="masih" stem="masih" lemma="masih">masih</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<w rt="ari" stem="ari" lemma="ari">ari</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="bulih" stem="bulih" lemma="bulih">bulih</w>
+<w rt="lawat" p1="di-" stem="lawat" lemma="melawat">dilawat</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000024" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="bawah" stem="bawah" lemma="bawah@membawah">Bawah</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="hairan" p1="meN-" s1="-kan" stem="hairankan" lemma="manghairankan">manghairankan</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000025" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="jaranih" stem="jaranih" lemma="jaranih">Jaranih</w>
+<w rt="aing" stem="aing" lemma="aing">aing</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000026" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="macam" stem="macam" lemma="macam">Macam</w>
+<w rt="air" stem="air" lemma="air">air</w>
+<w rt="laut" stem="laut" lemma="laut">laut</w>
+<g/>
+<pu>,</pu>
+<w rt="rasa" p1="di-" s1="-i" stem="rasai" lemma="merasai">dirasai</w>
+<w rt="pun" stem="pun" lemma="pun">pun</w>
+<w rt="masin" stem="masin" lemma="masin">masin</w>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000027" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="ulah" p1="se-" r1="R-penuh" stem="saulah-ulah" lemma="saulah-ulah">Saulah-ulah</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="bawah" stem="bawah" lemma="bawah">bawah</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<g/>
+<pu>,</pu>
+<w rt="dalam" stem="dalam" lemma="dalam">dalam</w>
+<w rt="sungai" stem="sungai" lemma="sungai">sungai</w>
+<g/>
+<pu>,</pu>
+<w rt="dalam" stem="dalam" lemma="dalam">dalam</w>
+<w rt="sungai" stem="sungai" lemma="sungai">sungai</w>
+<w rt="mana" stem="mana" lemma="mana">mana</w>
+<w rt="bulih" stem="bulih" lemma="bulih">bulih</w>
+<w rt="air" stem="air" lemma="air">air</w>
+<w rt="masin" stem="masin" lemma="masin">masin</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000028" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="samua" stem="samua" lemma="samua">Samua</w>
+<w rt="air" stem="air" lemma="air">air</w>
+<w rt="tawar" stem="tawar" lemma="tawar@menawar">tawar</w>
+<w rt="bah" stem="bah" lemma="bah">bah</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000029" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="Jadi" stem="Jadi" lemma="Jadi">Jadi</w>
+<g/>
+<pu>,</pu>
+<w rt="dapat" p1="di-" s1="-i" stem="dapati" lemma="mendapati">didapati</w>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="masih" stem="masih" lemma="masih">masih</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="macam" stem="macam" lemma="macam">macam</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="mistik" s1="-lah" stem="mistik+lah" lemma="mistik+lah">mistiklah</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000030" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="macam" stem="macam" lemma="macam">Macam</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="unsur" r1="R-penuh" stem="unsur" lemma="unsur">unsur-unsur</w>
+<w rt="anu" s1="-lah" stem="anu+lah" lemma="anu+lah">anulah</w>
+<g/>
+<pu>,</pu>
+<w rt="atu" s1="-lah" stem="atu+lah" lemma="atu+lah">atulah</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="sana" stem="sana" lemma="sana">sana</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="balum" stem="balum" lemma="balum">balum</w>
+<w rt="lagi" stem="lagi" lemma="lagi">lagi</w>
+<w rt="kana" stem="kana" lemma="kana">kana</w>
+<w rt="buat" stem="buat" lemma="buat@membuat">buat</w>
+<w rt="kaji" s1="-an" stem="kajian" lemma="kajian">kajian</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000031" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="atu" stem="atu" lemma="atu">Atu</w>
+<w rt="antara" s1="-nya" s2="-lah" stem="antara+dia+lah" lemma="antara+dia+lah">antaranyalah</w>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="rayat" stem="rayat" lemma="rayat">rayat</w>
+<g/>
+<pu>,</pu>
+<w rt="carita" stem="carita" lemma="carita">Carita</w>
+<w rt="batang" stem="batang" lemma="batang@membatang">Batang</w>
+<w rt="dayang" stem="dayang" lemma="dayang">Dayang</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000032" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="kalau" stem="kalau" lemma="kalau">Kalau</w>
+<w rt="lagi" stem="lagi" lemma="lagi">lagi</w>
+<w rt="daulu" stem="daulu" lemma="daulu">daulu</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="antat" stem="antat" lemma="antat@mengantat">antat</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<g/>
+<pu>,</pu>
+<w rt="puja" p1="di-" stem="puja" lemma="memuja">dipuja</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000033" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="nda" stem="nda" lemma="nda">Nda</w>
+<w rt="tau" stem="tau" lemma="tau">tau</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="apa" stem="apa" lemma="apa">apa</w>
+<w rt="urang" stem="urang" lemma="urang">urang</w>
+<w rt="tua" r1="R-penuh" stem="tua-tua" lemma="tua-tua">tua-tua</w>
+<w rt="daulu" stem="daulu" lemma="daulu">daulu</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>,</pu>
+<w rt="macam" r1="R-penuh" stem="macam-macam" lemma="macam-macam">macam-macam</w>
+<w rt="saja" stem="saja" lemma="saja">saja</w>
+<w rt="atau" stem="atau" lemma="atau">atau</w>
+<w rt="jumpa" p1="ter-" stem="tajumpa" lemma="tajumpa">tajumpa</w>
+<w rt="barang" r1="R-penuh" stem="barang-barang" lemma="barang-barang">barang-barang</w>
+<w rt="macam" r1="R-penuh" stem="macam-macam" lemma="macam-macam">macam-macam</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000034" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201701.txt">
+<w rt="ah" stem="ah" lemma="ah">Ah</w>
+<w rt="jadi" stem="jadi" lemma="jadi">jadi</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="carita" s1="-nya" stem="carita+dia" lemma="carita+dia">caritanya</w>
+<g/>
+<pu>,</pu>
+<w rt="kian" p1="se-" stem="sekian" lemma="sekian">sekian</w>
+<w rt="terima" stem="terima" lemma="menerima">terima</w>
+<w rt="kasi" stem="kasi" lemma="kasi@mengasi">kasi</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000035" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="jadi" s1="-nya" stem="jadinya@jadi+dia" lemma="jadinya@jadi+dia@menjadi+dia">Jadinya</w>
+<w rt="kan" stem="kan" lemma="kan">kan</w>
+<w rt="daulu" s1="-nya" stem="daulunya" lemma="daulunya">daulunya</w>
+<w rt="rupa" s1="-nya" r1="R-penuh" stem="rupa-rupanya@rupa-rupa+dia" lemma="rupa-rupanya@rupa-rupa+dia">rupa-rupanya</w>
+<g/>
+<pu>...</pu>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="buah" p1="se-" stem="satu+buah" lemma="satu+buah">sabuah</w>
+<w rt="tungkang" stem="tungkang" lemma="tungkang">tungkang</w>
+<w rt="labuh" p1="ber-" stem="balabuh" lemma="balabuh">balabuh</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="labuh" c1="pe--an" stem="palabuhan" lemma="palabuhan">palabuhan</w>
+<w rt="Wistin" stem="Wistin" lemma="Wistin">Wistin</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000036" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="ani" stem="ani" lemma="ani@mengani">Ani</w>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="banar" stem="banar" lemma="banar">banar</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000037" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="kali" p1="se-" stem="sakali" lemma="sakali">Sakali</w>
+<w rt="mangurabat" stem="mangurabat" lemma="mangurabat">mangurabat</w>
+<g/>
+<pu>,</pu>
+<w rt="tarajun" c1="ber--an" stem="batarajunan" lemma="batarajunan">batarajunan</w>
+<w rt="turun" stem="turun" lemma="turun">turun</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000038" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="tengah" stem="tangah" lemma="tangah">Tangah</w>
+<w rt="malam" stem="malam" lemma="malam">malam</w>
+<w rt="pukul" stem="pukul" lemma="pukul@memukul">pukul</w>
+<w rt="dua" stem="dua" lemma="dua">dua</w>
+<w rt="labih" stem="labih" lemma="labih">labih</w>
+<g/>
+<pu>,</pu>
+<w rt="labih" stem="labih" lemma="labih">labih</w>
+<w rt="kurang" stem="kurang" lemma="kurang">kurang</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000039" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="lakat" stem="lakat" lemma="lakat">Lakat</w>
+<w rt="lagi" stem="lagi" lemma="lagi">lagi</w>
+<w rt="mairap" stem="mairap" lemma="mairap">mairap</w>
+<w rt="bulan" stem="bulan" lemma="bulan">bulan</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000040" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="ratus" p1="ber-" stem="baratus" lemma="baratus">Baratus</w>
+<w rt="urang" stem="urang" lemma="urang">urang</w>
+<w rt="tarajun" p1="ber-" stem="batarajun" lemma="batarajun">batarajun</w>
+<w rt="tungkang" stem="tungkang" lemma="tungkang">tungkang</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000041" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="rupa" s1="-nya" r1="R-penuh" stem="rupa-rupanya@rupa-rupa+dia" lemma="rupa-rupanya@rupa-rupa+dia">Rupa-rupanya</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<g/>
+<pu>,</pu>
+<w rt="minta" stem="minta" lemma="minta">minta</w>
+<w rt="map" s1="-ku" stem="map+aku" lemma="map+aku">mapku</w>
+<w rt="urang" stem="urang" lemma="urang">urang</w>
+<w rt="Jawa" stem="Jawa" lemma="Jawa">Jawa</w>
+<w rt="udar" p1="di-" s1="-nya" stem="dia+udar" lemma="dia+mangudar">diudarnya</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="mari" stem="mari" lemma="mari">mari</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000042" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="lusir" c1="ber--an" stem="balusiran" lemma="balusiran">Balusiran</w>
+<w rt="barang" stem="barang" lemma="barang">barang</w>
+<w rt="bawah" stem="bawah" lemma="bawah">bawah</w>
+<w rt="rumah" stem="rumah" lemma="rumah">rumah</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000043" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="antak" s1="-i" stem="antaki" lemma="mangantaki">Antaki</w>
+<w rt="aing" stem="aing" lemma="aing">aing</w>
+<w rt="angat" stem="angat" lemma="angat">angat</w>
+<g/>
+<pu>,</pu>
+<w rt="carita" stem="carita" lemma="carita">carita</w>
+<w rt="mulah" stem="mulah" lemma="mulah">mulah</w>
+<w rt="mama" stem="mama" lemma="mama">mama</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>,</pu>
+<w rt="antak" s1="-i" stem="antaki" lemma="mangantaki">antaki</w>
+<w rt="aing" stem="aing" lemma="aing">aing</w>
+<w rt="angat" p1="N-" stem="ngangat" lemma="ngangat">ngangat</w>
+<g/>
+<pu>,</pu>
+<pu>"</pu>
+<w rt="siram" stem="siram" lemma="menyiram">siram</w>
+<g/>
+<pu>!</pu>
+<pu>"</pu>
+<w rt="nya" stem="dia@nya" lemma="dia@nya">nya</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000044" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="pikir" s1="-nya" stem="pikirnya@pikir+dia" lemma="pikirnya@pikir+dia@memikir+dia">Pikirnya</w>
+<w rt="antu" stem="antu" lemma="antu">antu</w>
+<g/>
+<pu>,</pu>
+<w rt="rupa" s1="-nya" r1="R-penuh" stem="rupa-rupanya@rupa-rupa+dia" lemma="rupa-rupanya@rupa-rupa+dia">rupa-rupanya</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="urang" r1="R-penuh" stem="urang" lemma="urang">urang-urang</w>
+<w rt="lari" c1="pe--an" stem="palarian" lemma="palarian">palarian</w>
+<w rt="Jawa" stem="Jawa" lemma="Jawa">Jawa</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="lapar" c1="ke--an" stem="kalaparan" lemma="kalaparan">kalaparan</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="kapal" stem="kapal" lemma="kapal">kapal</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000045" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="atu" stem="atu" lemma="atu">Atu</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="sudah" stem="sudah" lemma="sudah">sudah</w>
+<w rt="nya" stem="dia@nya" lemma="dia@nya">nya</w>
+<w rt="mulah" stem="mulah" lemma="mulah">mulah</w>
+<w rt="mama" stem="mama" lemma="mama">mama</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000046" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="kantak" p1="meN-" stem="Mangantak" lemma="Mangantak">Mangantak</w>
+<w rt="aing" stem="aing" lemma="aing">aing</w>
+<w rt="angat" p1="N-" stem="ngangat" lemma="ngangat">ngangat</w>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="buat" p1="meN-" stem="buat" lemma="mambuat">mambuat</w>
+<w rt="sagu" stem="sagu" lemma="sagu@menyagu">sagu</w>
+<g/>
+<pu>,</pu>
+<w rt="buyat" stem="buyat" lemma="buyat">buyat</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000047" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="buat" p1="di-" s1="-kan" stem="buatkan" lemma="membuatkan">Dibuatkan</w>
+<w rt="mbuyat" stem="mbuyat" lemma="mbuyat">mbuyat</w>
+<g/>
+<pu>,</pu>
+<w rt="lapar" c1="ke--an" stem="kalaparan" lemma="kalaparan">kalaparan</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000048" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="gala" p1="se-" r1="R-penuh" stem="sagala-gala" lemma="sagala-gala">Sagala-gala</w>
+<w rt="tulang" stem="tulang" lemma="tulang">tulang</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="bawah" stem="bawah" lemma="bawah">bawah</w>
+<w rt="rumah" stem="rumah" lemma="rumah">rumah</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="anu" s1="-nya" stem="anu+dia" lemma="anu+dia">anunya</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="anu" s1="-nya" stem="anu+dia" lemma="anu+dia">anunya</w>
+<w rt="rupa" s1="-nya" stem="rupanya@rupa+dia" lemma="rupanya@rupa+dia">rupanya</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="buruh" stem="buruh" lemma="buruh">buruh</w>
+<w rt="paksa" stem="paksa" lemma="memaksa">paksa</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="bawa" p1="di-" stem="bawa" lemma="membawa">dibawa</w>
+<w rt="ulih" stem="ulih" lemma="ulih">ulih</w>
+<w rt="urang" r1="R-penuh" stem="urang" lemma="urang">urang-urang</w>
+<g/>
+<pu>,</pu>
+<w rt="urang" r1="R-penuh" stem="urang" lemma="urang">urang-urang</w>
+<w rt="Baritis" s1="-kah" stem="Baritis+kah" lemma="Baritis+kah">Baritiskah</w>
+<g/>
+<pu>,</pu>
+<w rt="untuk" stem="untuk" lemma="untuk">untuk</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="mari" stem="mari" lemma="mari">mari</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000049" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="atu" stem="atu" lemma="atu">Atu</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<g/>
+<pu>,</pu>
+<w rt="sajak" r1="R-penuh" stem="sajak" lemma="sajak">sajak-sajak</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<g/>
+<pu>,</pu>
+<w rt="banyak" stem="banyak" lemma="banyak">banyak</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="lari" stem="lari" lemma="lari">lari</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="istit" r1="R-penuh" stem="istit" lemma="istit">istit-istit</w>
+<w rt="urang" r1="R-penuh" stem="urang" lemma="urang">urang-urang</w>
+<w rt="Jawa" stem="Jawa" lemma="Jawa">Jawa</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="ia" stem="ia" lemma="ia">ia</w>
+<w rt="datang" stem="datang" lemma="datang">datang</w>
+<w rt="daripada" stem="daripada" lemma="daripada">daripada</w>
+<w rt="Wistin" stem="Wistin" lemma="Wistin">wistin</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="tarajun" c1="ber--an" stem="batarajunan" lemma="batarajunan">batarajunan</w>
+<w rt="tangah" stem="tangah" lemma="tangah">tangah</w>
+<w rt="malam" stem="malam" lemma="malam">malam</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000050" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="anu" stem="anu" lemma="anu">Anu</w>
+<w rt="ucap" stem="ucap" lemma="ucap@mengucap">ucap</w>
+<w rt="apa" stem="apa" lemma="apa">apa</w>
+<w rt="antu" s1="-kah" stem="antu+kah" lemma="antu+kah">antukah</w>
+<g/>
+<pu>,</pu>
+<w rt="rupa" s1="-nya" stem="rupanya@rupa+dia" lemma="rupanya@rupa+dia">rupanya</w>
+<w rt="manusia" stem="manusia" lemma="manusia">manusia</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="apa" stem="apa" lemma="apa">apa</w>
+<w rt="tu" stem="tu" lemma="tu">tu</w>
+<w rt="lapar" c1="ke--an" stem="kalaparan" lemma="kalaparan">kalaparan</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000051" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="masing" r1="R-penuh" stem="masing-masing" lemma="masing-masing">Masing-masing</w>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000052" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="nantan" p1="se-" stem="satu+nantan" lemma="satu+nantan">Sanantan</w>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="cukup" stem="cukup" lemma="cukup">cukup</w>
+<w rt="dua" stem="dua" lemma="dua">dua</w>
+<w rt="nantan" stem="nantan" lemma="nantan">nantan</w>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="cukup" stem="cukup" lemma="cukup">cukup</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000053" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="sampai" r1="R-penuh" stem="sampai-sampai" lemma="sampai-sampai">Sampai-sampai</w>
+<w rt="anu" s1="-nya" stem="anu+dia" lemma="anu+dia">anunya</w>
+<w rt="karung" p1="se-" stem="satu+karung" lemma="satu+karung">sakarung</w>
+<w rt="dia" stem="dia" lemma="dia">dia</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="uar" p1="di-" s1="-kan" stem="uarkan" lemma="menguarkan">diuarkan</w>
+<w rt="ambuyat" stem="ambuyat" lemma="ambuyat">ambuyat</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000054" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="makan" stem="makan" lemma="makan@memakan">Makan</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="sidia" stem="sidia" lemma="sidia">sidia</w>
+<w rt="makan" stem="makan" lemma="memakan">makan</w>
+<w rt="raum" p1="ber-" stem="baraum" lemma="baraum">baraum</w>
+<w rt="awu" stem="awu" lemma="awu">awu</w>
+<w rt="ambulung" stem="ambulung" lemma="ambulung">ambulung</w>
+<w rt="bari" p1="di-" stem="bari" lemma="mambari">dibari</w>
+<w rt="makan" stem="makan" lemma="memakan">makan</w>
+<w rt="ambulung" stem="ambulung" lemma="ambulung">ambulung</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000055" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="bari" p1="meN-" stem="bari" lemma="mambari">Mambari</w>
+<w rt="kasi" s1="-an" s2="-nya" stem="kasiannya" lemma="kasiannya">kasiannya</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="tilanjang" p1="ber-" stem="batilanjang" lemma="batilanjang">batilanjang</w>
+<w rt="ada" stem="ada" lemma="ada">ada</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="nda" stem="nda" lemma="nda">nda</w>
+<w rt="baju" p1="ber-" stem="babaju" lemma="babaju">babaju</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000056" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="atu" stem="atu" lemma="atu">Atu</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="carita" s1="-nya" stem="carita+dia" lemma="carita+dia">caritanya</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000057" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="sampai" stem="sampai" lemma="sampai@menyampai">Sampai</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="ari" stem="ari" lemma="ari">ari</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000058" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="banyak" stem="banyak" lemma="banyak">banyak</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<w rt="karaja" p1="ber-" stem="bakaraja" lemma="bakaraja">bakaraja</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="istit" r1="R-penuh" stem="istit" lemma="istit">istit-istit</w>
+<g/>
+<pu>,</pu>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="di" stem="di" lemma="di">di</w>
+<w rt="ah" stem="ah" lemma="ah">ah</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000059" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="Jadi" stem="Jadi" lemma="Jadi">Jadi</w>
+<w rt="kisah" p1="di-" s1="-kan" stem="kisahkan" lemma="mengisahkan">dikisahkan</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="ah" stem="ah" lemma="ah">ah</w>
+<w rt="masa" p1="se-" stem="samasa" lemma="samasa">samasa</w>
+<w>A.</w>
+<w>J.</w>
+<w>West</w>
+<w rt="bina" p1="meN-" stem="bina" lemma="mambina">mambina</w>
+<w rt="landas" s1="-an" stem="landasan" lemma="landasan">landasan</w>
+<w rt="keretapi" stem="keretapi" lemma="keretapi">keretapi</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000060" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="sudah" stem="sudah" lemma="sudah">Sudah</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="sana" stem="sana" lemma="sana">sana</w>
+<g/>
+<pu>,</pu>
+<w rt="urang" p1="se-" stem="satu+urang" lemma="satu+urang">saurang</w>
+<w rt="tukang" stem="tukang" lemma="tukang">tukang</w>
+<w rt="rantis" stem="rantis" lemma="rantis">rantis</w>
+<w rt="bangsa" p1="ber-" stem="babangsa" lemma="babangsa">babangsa</w>
+<w rt="Cina" stem="Cina" lemma="Cina">Cina</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000061" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="urang" p1="se-" stem="satu+urang" lemma="satu+urang">Saurang</w>
+<w rt="tukang" stem="tukang" lemma="tukang">tukang</w>
+<w rt="rantis" stem="rantis" lemma="rantis">rantis</w>
+<w rt="bangsa" p1="ber-" stem="babangsa" lemma="babangsa">babangsa</w>
+<w rt="Cina" stem="Cina" lemma="Cina">Cina</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000062" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="Jadi" stem="Jadi" lemma="Jadi">Jadi</w>
+<g/>
+<pu>,</pu>
+<w rt="rantis" stem="rantis" lemma="rantis">rantis</w>
+<g/>
+<pu>,</pu>
+<w rt="rantis" stem="rantis" lemma="rantis">rantis</w>
+<g/>
+<pu>,</pu>
+<w rt="rantis" stem="rantis" lemma="rantis">rantis</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="Maraba" stem="Maraba" lemma="Maraba">Maraba</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000063" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="sampai" stem="sampai" lemma="sampai@menyampai">Sampai</w>
+<w rt="sudah" stem="sudah" lemma="sudah">sudah</w>
+<w rt="ah" stem="ah" lemma="ah">ah</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000064" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="sampai" stem="sampai" lemma="sampai@menyampai">Sampai</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000065" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="tariak" p1="meN-" stem="manariak" lemma="manariak">Manariak</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<w rt="urang" stem="urang" lemma="urang">urang</w>
+<w rt="Jawa" stem="Jawa" lemma="Jawa">Jawa</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>,</pu>
+<pu>"</pu>
+<w rt="hoi" stem="hoi" lemma="hoi">Hoi</w>
+<g/>
+<pu>,</pu>
+<w rt="ah" stem="ah" lemma="ah">Ah</w>
+<w rt="siong" stem="siong" lemma="siong">Siong</w>
+<w rt="ah" stem="ah" lemma="ah">ah</w>
+<g/>
+<pu>,</pu>
+<w rt="sudah" stem="sudah" lemma="sudah">sudah</w>
+<w rt="sampai" s1="-kah" stem="sampai+kah" lemma="sampai+kah@menyampai+kah">sampaikah</w>
+<g/>
+<pu>?</pu>
+<pu>"</pu>
+<w rt="nya" stem="dia@nya" lemma="dia@nya">nya</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000066" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<pu>"</pu>
+<w rt="sudah" stem="sudah" lemma="sudah">Sudah</w>
+<w rt="sampai" s1="-kah" stem="sampai+kah" lemma="sampai+kah@menyampai+kah">sampaikah</w>
+<g/>
+<pu>?</pu>
+<pu>"</pu>
+<w rt="nya" stem="dia@nya" lemma="dia@nya">nya</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000067" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="ani" stem="ani" lemma="ani@mengani">Ani</w>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<g/>
+<pu>,</pu>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="stisin" stem="stisin" lemma="stisin">stisin</w>
+<w rt="buat" p1="meN-" stem="buat" lemma="mambuat">mambuat</w>
+<w rt="stisin" stem="stisin" lemma="stisin">stisin</w>
+<w rt="anu" stem="anu" lemma="anu">anu</w>
+<w rt="stisin" stem="stisin" lemma="stisin">stisin</w>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000068" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<pu>"</pu>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<g/>
+<pu>!</pu>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<g/>
+<pu>!</pu>
+<pu>"</pu>
+<w rt="nya" stem="dia@nya" lemma="dia@nya">nya</w>
+<g/>
+<pu>,</pu>
+<w rt="arti" s1="-nya" stem="arti+dia" lemma="arti+dia">artinya</w>
+<w rt="dalam" stem="dalam" lemma="dalam">dalam</w>
+<w rt="bahasa" stem="bahasa" lemma="bahasa">Bahasa</w>
+<w rt="Cina" stem="Cina" lemma="Cina">Cina</w>
+<w rt="balum" stem="balum" lemma="balum">balum</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<g/>
+<pu>,</pu>
+<w rt="bahasa" stem="bahasa" lemma="bahasa">bahasa</w>
+<w rt="cina" s1="-nya" stem="cinanya@cina+dia" lemma="cinanya@cina+dia@mencina+dia">Cinanya</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000069" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="ia" stem="ia" lemma="ia@mengia">Ia</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="kisah" s1="-nya" stem="kisah+dia" lemma="kisah+dia">kisahnya</w>
+<w rt="nama" stem="nama" lemma="nama">nama</w>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="bari" p1="di-" stem="bari" lemma="mambari">dibari</w>
+<w rt="nama" stem="nama" lemma="nama">nama</w>
+<g/>
+<pu>,</pu>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<w rt="sabab" stem="sabab" lemma="sabab">sabab</w>
+<w rt="balum" stem="balum" lemma="balum">balum</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000070" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="yang" stem="yang" lemma="yang">Yang</w>
+<w rt="kira" s1="-nya" stem="kiranya@kira+dia" lemma="kiranya@kira+dia@mengira+dia">kiranya</w>
+<w rt="stisin" stem="stisin" lemma="stisin">stisin</w>
+<w rt="dua" p1="ke-" stem="kadua" lemma="kadua">kadua</w>
+<w rt="karita" stem="karita" lemma="karita">karita</w>
+<w rt="api" stem="api" lemma="api">api</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<w rt="ka" stem="ka" lemma="ka">ka</w>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000071" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="atu" stem="atu" lemma="atu">Atu</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="kisah" s1="-nya" stem="kisah+dia" lemma="kisah+dia">kisahnya</w>
+<w rt="yang" stem="yang" lemma="yang">yang</w>
+<g/>
+<pu>.</pu>
+<pu>.</pu>
+<w rt="ia" stem="ia" lemma="ia">ia</w>
+<w rt="bari" p1="di-" stem="bari" lemma="mambari">dibari</w>
+<w rt="nama" stem="nama" lemma="nama">nama</w>
+<w rt="kampung" stem="kampung" lemma="kampung@mengampung">Kampung</w>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<w rt="ari" stem="ari" lemma="ari">ari</w>
+<w rt="ani" stem="ani" lemma="ani@mengani">ani</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000072" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="ah" stem="ah" lemma="ah">Ah</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="tah" stem="tah" lemma="tah">tah</w>
+<w rt="carita" s1="-nya" stem="carita+dia" lemma="carita+dia">caritanya</w>
+<g/>
+<pu>,</pu>
+<w rt="ah" stem="ah" lemma="ah">ah</w>
+<g/>
+<pu>,</pu>
+<w rt="dalam" stem="dalam" lemma="dalam">dalam</w>
+<w rt="ia" stem="ia" lemma="ia">ia</w>
+<w rt="punya" stem="punya" lemma="punya">punya</w>
+<w rt="ipisod" stem="ipisod" lemma="ipisod">ipisod</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000073" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="kau" stem="kau" lemma="kau">Kau</w>
+<w rt="kana" stem="kana" lemma="kana">kana</w>
+<w rt="ingat" stem="ingat" lemma="ingat@mengingat">ingat</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<w rt="sajarah" stem="sajarah" lemma="sajarah">sajarah</w>
+<w rt="kamu" stem="kamu" lemma="kamu">kamu</w>
+<w rt="atu" stem="atu" lemma="atu">atu</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000074" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="ia" stem="ia" lemma="ia@mengia">Ia</w>
+<w rt="asal" p1="ber-" stem="barasal" lemma="barasal">barasal</w>
+<w rt="dari" stem="dari" lemma="dari">dari</w>
+<w rt="kata" c1="per--an" stem="parkataan" lemma="parkataan">parkataan</w>
+<w rt="Cina" stem="Cina" lemma="Cina">Cina</w>
+<g/>
+<pu>,</pu>
+<w rt="bukau" stem="bukau" lemma="bukau">bukau</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000075" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="bukau" s1="-nya" stem="bukau+dia" lemma="bukau+dia">Bukaunya</w>
+<w rt="balum" stem="balum" lemma="balum">balum</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000076" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="ia" stem="ia" lemma="ia@mengia">Ia</w>
+<w rt="rantis" p1="meN-" stem="rantis" lemma="marantis">marantis</w>
+<w rt="jalan" stem="jalan" lemma="jalan">jalan</w>
+<w rt="tu" stem="tu" lemma="tu">tu</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000077" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="sampai" stem="sampai" lemma="sampai@menyampai">Sampai</w>
+<w rt="balum" stem="balum" lemma="balum">balum</w>
+<w rt="sampai" stem="sampai" lemma="menyampai">sampai</w>
+<g/>
+<pu>?</pu>
+</s>
+</doc>
+<doc url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt" subcorpus="var_brunei">
+<s id="var_brunei.0000078" subcorpus="var_brunei" url="https://github.com/matbahasa/Melayu_Brunei/blob/master/Brunei201702.txt">
+<w rt="bukau" s1="-nya" stem="bukau+dia" lemma="bukau+dia">Bukaunya</w>
+<w rt="ia" stem="ia" lemma="ia">ia</w>
+<w rt="mau" stem="mau" lemma="mau">mau</w>
+<w rt="basa" stem="basa" lemma="basa">basa</w>
+<w rt="rantis" stem="rantis" lemma="rantis">rantis</w>
+<w rt="untuk" stem="untuk" lemma="untuk">untuk</w>
+<w rt="buat" p1="meN-" stem="buat" lemma="mambuat">mambuat</w>
+<w rt="landas" s1="-an" stem="landasan" lemma="landasan">landasan</w>
+<w rt="karitapi" stem="karitapi" lemma="karitapi">karitapi</w>
+<g/>
+<pu>,</pu>
+<w rt="bukau" stem="bukau" lemma="bukau">Bukau</w>
+<g/>
+<pu>,</pu>
+<w rt="ah" stem="ah" lemma="ah">ah</w>
+<g/>
+<pu>,</pu>
+<w rt="haha" stem="haha" lemma="haha">haha</w>
+<g/>
+<pu>,</pu>
+<w rt="dalam" stem="dalam" lemma="dalam">dalam</w>
+<w rt="bahasa" stem="bahasa" lemma="bahasa">bahasa</w>
+<w rt="Cina" stem="Cina" lemma="Cina">Cina</w>
+<g/>
+<pu>.</pu>
+</s>
+</doc>
+</docs>
