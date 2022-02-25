@@ -1,6 +1,8 @@
 # Korpus Variasi Bahasa Melayu: Brunei
+Sila lihat [folklor.md](folklor.md) untuk maklumat mengenai data Folklor.
+
 ## Rujukan
-Asako Shiohara dan Mohd Izzuddin Fitri. 2021. [Two pieces of Brunei Malay text: A story of the Maiden Stem and two episodes in the history of Weston and Bukau](http://repository.tufs.ac.jp/handle/10108/99901). _Asian and African Languages and Linguistics_ 15: 171-190.
+- Asako Shiohara dan Mohd Izzuddin Fitri. 2021. [Two pieces of Brunei Malay text: A story of the Maiden Stem and two episodes in the history of Weston and Bukau](http://repository.tufs.ac.jp/handle/10108/99901). _Asian and African Languages and Linguistics_ 15: 171-190.
 
 ## Lesen
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ms)
