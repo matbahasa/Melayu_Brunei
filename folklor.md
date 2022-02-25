@@ -2,7 +2,7 @@
 Data "Folklor" yang termuat dalam MALINDO Conc adalah berdasarkan Abdul Hamid dan Palaniappan (1998). Penggunaan data tersebut dibenarkan oleh salah seorang ahli jawatankuasa penyuntingan projek Folklor Kampong Ayer, iaitu Dr. Haji Asbol bin Haji Mail. Sila kutip buku asal (lih. [Rujuan](#Rujukan)) apabila hasil carian anda berasal dari data tersebut.
 
 ## Rujukan
-Haji Abdul Hamid bin Jaludin dan Periannan Palaniappan. 1998. [Folklor Kampong Aying: Himpunan Hasil Projek Folklor Kampong Ayer] (https://www.researchgate.net/publication/313161561_Folklor_Kampong_Aying_Himpunan_Hasil_Projek_Folkor_Kampong_Ayer). Gadong: Jabatan Kesusasteraan Melayu, Fakulti Sastera dan Sains Kemasyarakatan, Universiti Brunei Darussalam.
+Haji Abdul Hamid bin Jaludin dan Periannan Palaniappan. 1998. [Folklor Kampong Aying: Himpunan Hasil Projek Folklor Kampong Ayer](https://www.researchgate.net/publication/313161561_Folklor_Kampong_Aying_Himpunan_Hasil_Projek_Folkor_Kampong_Ayer). Gadong: Jabatan Kesusasteraan Melayu, Fakulti Sastera dan Sains Kemasyarakatan, Universiti Brunei Darussalam.
 
 ## Isi Kandungan
 |Fail              |Klasifikasi/tajuk                                                            |Jumlah token|Muka surat|
